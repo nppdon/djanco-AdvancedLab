@@ -25,7 +25,7 @@ SECRET_KEY = 'n3=_6)wnge05-=hkqr39h+=784+ovv9wu%=q)isbw$%@w0(uwe'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost-noppadol-bilsanheem-1.paiza-user-free.cloud']
+ALLOWED_HOSTS = ['127.0.0.1','localhost-noppadol-bilsanheem-2.paiza-user-free.cloud']
 
 
 # Application definition
